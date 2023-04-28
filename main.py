@@ -17,7 +17,7 @@ from Crypto.Util.Padding import unpad
 from base64 import b64encode, b64decode
 
 bot = Client("bot",
-             bot_token= "5509916510:AAHroyKDRf7HaKq4Z79X3AhzoYXMefk6BpA",
+             bot_token= "6226401211:AAGcEQQMMXF7NWjeZ2UmDqpCTtt9vV_HhJA",
              api_id= 27495136,
              api_hash= "4ccc4865eec4d8fde7530e71948b3424")
 
