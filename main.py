@@ -18,7 +18,7 @@ from base64 import b64encode, b64decode
 from pyromod import listen
 
 bot = Client("bot",
-             bot_token= "6226401211:AAGcEQQMMXF7NWjeZ2UmDqpCTtt9vV_HhJA",
+             bot_token= "5509916510:AAHroyKDRf7HaKq4Z79X3AhzoYXMefk6BpA",
              api_id= 27495136,
              api_hash= "4ccc4865eec4d8fde7530e71948b3424")
 
