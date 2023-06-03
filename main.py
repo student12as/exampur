@@ -41,7 +41,7 @@ async def start(bot, update):
 
 
 
-@bot.on_message(filters.command(["exampur"]) & ~filters.edited)
+@bot.on_message(filters.command(["exampur"]))
 async def account_login(bot: Client, m: Message):
     global cancel
     cancel = False
